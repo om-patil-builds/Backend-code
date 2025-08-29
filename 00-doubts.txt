@@ -5,4 +5,6 @@
 
 3) why we used .env in github
 
-4)how to create file on windows like we use touch for linux ->New-Item filename
+4)how to create file on windows like we use touch for linux Soln->New-Item filename
+
+5) i push file on github i follow the lecture path but my all push on include gitfiles also
