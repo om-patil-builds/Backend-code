@@ -2,3 +2,7 @@
 
 
 2) create react  application in frontend 
+
+3) why we used .env in github
+
+4)how to create file on windows like we use touch for linux ->New-Item filename
