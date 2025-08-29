@@ -1,0 +1,6 @@
+26-08-2025
+lecture completed upto 
+
+node -v (for check version)
+
+npm init

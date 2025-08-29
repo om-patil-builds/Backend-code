@@ -1,0 +1,4 @@
+1) Error on server.js is not solved when we used npm run start then they give error also not understanding
+
+
+2) create react  application in frontend 
